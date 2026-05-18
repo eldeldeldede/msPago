@@ -7,8 +7,7 @@ import org.springframework.stereotype.Service;
 
 import cl.duoc.mspago.client.ArriendoClient;
 import cl.duoc.mspago.client.ClienteClient;
-import cl.duoc.mspago.dto.ClienteDTO;
-import cl.duoc.mspago.dto.PagoDTO;
+
 import cl.duoc.mspago.model.Pago;
 import cl.duoc.mspago.repository.PagoRepository;
 
